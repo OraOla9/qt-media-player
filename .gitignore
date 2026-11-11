@@ -1,0 +1,10 @@
+*.pro.user
+*.pro.user.*
+build-*/
+*.o
+moc_*
+ui_*
+Makefile
+*.exe
+.DS_Store
+Thumbs.db
